@@ -11,6 +11,7 @@ gem 'rails', '~> 5.0.2'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
